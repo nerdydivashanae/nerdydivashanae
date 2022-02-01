@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-- 🔭 I’m currently working on inclusive UX research and design, social innovation, angel investing
+- 🔭 I’m currently working on inclusive UX research and design, social innovation, angel investing in underrepresened founders
 - 🌱 I’m currently learning more about APIs, cybersecurity, and cloud services
 - 🍕 I’m looking to collaborate on social innovation projects
 - 🤔 I’m looking for help with starting a remote internship program 
