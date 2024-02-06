@@ -1,11 +1,11 @@
 ### Hi there 👋🏾
 
-- 🔭 I’m currently working on inclusive UX research and design, social innovation, and angel investing in underrepresented founders
-- 🌱 I’m currently learning more about APIs, cybersecurity, and cloud services
-- 🍕 I’m looking to collaborate on social innovation projects
-- 🤔 I’m looking for help with starting a remote internship program 
-- 💬 Ask me about UX, accessibility, diversity and inclusion, developer experience
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nerdydivashanae/), [Twitter](https://twitter.com/nerdydivadesign), [Website](https://nerdydiva.com/)
+- 🔭 I’m currently working on an AI and UX course for LinkedIn
+- 🌱 I’m currently learning more about AI, APIs, and cloud security
+- 🍕 I’m looking to collaborate on social impact innovation projects in the EdTech, digital health, and AI space
+- 🤔 I’m looking for help with funding for new lab projects 
+- 💬 Ask me about UX, diversity and inclusion, AI and developer experience
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nerdydivashanae/), [Website](https://nerdydiva.com/)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Long distance runner with dreams of running the Boston Marathon one day
 
